@@ -1,0 +1,47 @@
+[
+  {
+    "title": "BTS Arirang Comeback 2026: Everything You Need to Know About the Album, World Tour, and Netflix Concert",
+    "html_file": "article_bts_arirang.html",
+    "img": "featured_bts_arirang.png",
+    "category": "K-Pop",
+    "category_slug": "k-pop",
+    "excerpt": "BTS returns with their fifth studio album Arirang on March 20, 2026, followed by a free Netflix live concert from Gwanghwamun Square and an 82-date world tour spanning 34 cities. Your complete guide to the biggest comeback in K-Pop history.",
+    "tags": ["BTS", "Arirang", "K-Pop", "World Tour", "Netflix", "Comeback", "ARMY", "Big Hit Music"]
+  },
+  {
+    "title": "Boyfriend on Demand: Jisoo's Netflix K-Drama Everyone Is Talking About — Complete Guide",
+    "html_file": "article_boyfriend_demand.html",
+    "img": "featured_boyfriend_demand.png",
+    "category": "K-Drama",
+    "category_slug": "k-drama",
+    "excerpt": "Blackpink's Jisoo stars alongside Seo In-guk in Netflix's romantic comedy Boyfriend on Demand, premiering March 6, 2026. From virtual dating simulations to real-world sparks, here is everything you need to know.",
+    "tags": ["Jisoo", "Blackpink", "K-Drama", "Netflix", "Boyfriend on Demand", "Seo In-guk", "Korean Drama"]
+  },
+  {
+    "title": "Top 7 K-Beauty Trends Dominating 2026: PDRN, Exosomes, and the Science Behind Korean Skincare's Revolution",
+    "html_file": "article_kbeauty_2026.html",
+    "img": "featured_kbeauty_2026.png",
+    "category": "K-Beauty",
+    "category_slug": "k-beauty",
+    "excerpt": "From salmon-derived PDRN serums to exosome therapy and Medicube's viral AGE-R device, K-Beauty in 2026 is more science-driven than ever. Discover the top 7 trends reshaping the global skincare industry.",
+    "tags": ["K-Beauty", "Skincare", "PDRN", "Exosomes", "Medicube", "Korean Skincare", "Anti-Aging", "Beauty Trends"]
+  },
+  {
+    "title": "How the Iran War Is Hitting South Korea: Oil Prices, Won Currency, and What Ordinary Koreans Face Next",
+    "html_file": "article_iran_korea.html",
+    "img": "featured_iran_korea.png",
+    "category": "World News",
+    "category_slug": "world-news",
+    "excerpt": "South Korea imports 70% of its crude oil from the Middle East. With the Strait of Hormuz effectively shut down and Brent crude surging past $79, here is how the Iran war is directly impacting the Korean economy and daily life.",
+    "tags": ["Iran War", "South Korea", "Oil Crisis", "Korean Won", "Economy", "Middle East", "Energy Crisis"]
+  },
+  {
+    "title": "25 Essential Korean Phrases Every BTS Fan Needs for the Arirang World Tour 2026",
+    "html_file": "article_korean_bts.html",
+    "img": "featured_korean_bts.png",
+    "category": "Korean Language",
+    "category_slug": "korean-language",
+    "excerpt": "Heading to a BTS Arirang World Tour concert? Master these 25 essential Korean phrases from fan chants and lightstick commands to survival expressions and connect with fellow ARMY like a native speaker.",
+    "tags": ["Korean Language", "BTS", "ARMY", "Fan Chants", "Korean Phrases", "Learn Korean", "Concert Guide"]
+  }
+]
