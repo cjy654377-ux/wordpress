@@ -5,7 +5,7 @@ import requests, re, json, sys, os
 SITE = "https://rhythmicaleskimo.com"
 REST = f"{SITE}/wp-json/wp/v2"
 USER = "cjy654377@gmail.com"
-PASS = "Tony2026!!"
+PASS = "Dkflekd1!!"
 
 def login():
     s = requests.Session()

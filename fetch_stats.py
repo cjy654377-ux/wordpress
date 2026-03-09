@@ -4,7 +4,7 @@ import requests, re, json
 
 SITE = "https://rhythmicaleskimo.com"
 USER = "cjy654377@gmail.com"
-PASS = "Tony2026!!"
+PASS = "Dkflekd1!!"
 
 def login():
     s = requests.Session()

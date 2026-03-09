@@ -9,7 +9,7 @@ SITE = "https://rhythmicaleskimo.com"
 LOGIN_URL = f"{SITE}/wp-login.php"
 REST_URL = f"{SITE}/wp-json/wp/v2"
 USERNAME = "cjy654377@gmail.com"
-PASSWORD = "Tony2026!!"
+PASSWORD = "Dkflekd1!!"
 
 # ---- Step 1: Login and get cookies + nonce ----
 session = requests.Session()

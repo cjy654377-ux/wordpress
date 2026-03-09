@@ -5,7 +5,7 @@ import requests, re, json, os, hashlib, sys
 SITE = "https://rhythmicaleskimo.com"
 REST = f"{SITE}/wp-json/wp/v2"
 USER = "cjy654377@gmail.com"
-PASS = "Tony2026!!"
+PASS = "Dkflekd1!!"
 BASE = os.path.dirname(os.path.abspath(__file__))
 
 

@@ -5,7 +5,7 @@ import requests, re, json, time, os
 SITE = "https://rhythmicaleskimo.com"
 REST = f"{SITE}/wp-json/wp/v2"
 USER = "cjy654377@gmail.com"
-PASS = "Tony2026!!"
+PASS = "Dkflekd1!!"
 
 # Post ID → Naver search keyword (Korean)
 POSTS = {

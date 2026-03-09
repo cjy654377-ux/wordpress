@@ -2,7 +2,7 @@ import requests, re, json, os, sys
 
 SITE = "https://rhythmicaleskimo.com"
 USER = "cjy654377@gmail.com"
-PASS = "Tony2026!!"
+PASS = "Dkflekd1!!"
 BASE = "/Users/choijooyong/projects/워드프레스_생생정보통"
 CAT_ID = 149  # World News
 
