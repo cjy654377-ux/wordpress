@@ -56,6 +56,16 @@ def publish(s, h, post, template):
         print(f"  ❌ {r.status_code}: {r.text[:150]}")
         return False
 
+def ping_google():
+    """Notify Google about sitemap update"""
+    url = f"https://www.google.com/ping?sitemap={SITE}/sitemap_index.xml"
+    try:
+        r = requests.get(url, timeout=10)
+        return r.status_code == 200
+    except:
+        return False
+
+
 if __name__ == "__main__":
     data_file = sys.argv[1] if len(sys.argv) > 1 else "posts_data.json"
     base = os.path.dirname(os.path.abspath(__file__))
